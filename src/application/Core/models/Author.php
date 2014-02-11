@@ -11,7 +11,7 @@ class Core_Model_Author
     {
         return $this->authorId;
     }
-
+    
 	/**
      * @param field_type $authorId
      */
